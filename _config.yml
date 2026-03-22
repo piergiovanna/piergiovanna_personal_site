@@ -1,8 +1,8 @@
 # Site settings
 title: "Piergio"
 description: "Professor of Computer Science at Stanford University"
-url: "https://piergiovanna.github.io/piergiovanna_personal_site/"
-baseurl: ""
+# url: "https://piergiovanna.github.io/piergiovanna_personal_site/"
+# baseurl: ""
 
 # Build settings
 markdown: kramdown
