@@ -6,7 +6,7 @@ lang: it
 
 <div class="hero-section">
   <div class="hero-content">
-    <h1>Piergio</h1>
+    <h1>Piergiovanna Grossi</h1>
     <div class="academic-links">
       <a href="https://scholar.google.com/citations?user=RIbfERIAAAAJ&hl=en" target="_blank">
         <span style="color: #4285f4;">G</span><span style="color: #ea4335;">o</span><span style="color: #fbbc05;">o</span><span style="color: #4285f4;">g</span><span style="color: #34a853;">l</span><span style="color: #ea4335;">e</span>
@@ -29,12 +29,9 @@ lang: it
       <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #333;"></i> Wikimedia
       </a>
-      <a href="https://www.wikimedia.it/news/sostenere-il-turismo-con-wikipedia/" target="_blank">
-        <i class="fab fa-wikipedia-w" style="color: #069;"></i> Wikimedia Italia
-      </a>
-      <a href="https://talks.osgeo.org/foss4g-it-2023/speaker/3XTN3X/" target="_blank" style="color: #4ca53b;">
-        <i class="fas fa-globe"></i> OSGeo
-      </a>
+     #   <a href="https://talks.osgeo.org/foss4g-it-2023/speaker/3XTN3X/" target="_blank" style="color: #4ca53b;">
+   #     <i class="fas fa-globe"></i> OSGeo
+   #   </a>
     </div>
   </div>
   <div class="hero-image">
