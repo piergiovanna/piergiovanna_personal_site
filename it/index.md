@@ -29,9 +29,9 @@ lang: it
       <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #333;"></i> Wikimedia
       </a>
-     #   <a href="https://talks.osgeo.org/foss4g-it-2023/speaker/3XTN3X/" target="_blank" style="color: #4ca53b;">
-   #     <i class="fas fa-globe"></i> OSGeo
-   #   </a>
+ *   <a href="https://talks.osgeo.org/foss4g-it-2023/speaker/3XTN3X/" target="_blank" style="color: #4ca53b;">
+  *    <i class="fas fa-globe"></i> OSGeo
+   *   </a>
     </div>
   </div>
   <div class="hero-image">
