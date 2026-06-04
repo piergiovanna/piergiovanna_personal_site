@@ -38,8 +38,7 @@ title: Home
       <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #333;"></i> Wikimedia
       </a>
-     
-    </div> 
+
 
     
   </div>
