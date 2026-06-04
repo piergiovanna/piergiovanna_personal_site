@@ -38,14 +38,7 @@ title: Home
       <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #333;"></i> Wikimedia
       </a>
-        <br>
-        
-    <a href="https://www.wikimedia.it/news/sostenere-il-turismo-con-wikipedia/" target="_blank"> 
-   <i class="fab fa-wikipedia-w" style="color: #069;"></i> Wikimedia Italia 
-    </a> 
-     <a href="https://talks.osgeo.org/foss4g-it-2023/speaker/3XTN3X/" target="_blank" style="color: #4ca53b;"> 
-      <i class="fas fa-globe"></i> OSGeo 
-     </a> 
+     
     </div> 
 
     
