@@ -40,15 +40,17 @@ title: Home
       </a>
         <br>
         
-    <!--  
-       <a href="https://www.wikimedia.it/news/sostenere-il-turismo-con-wikipedia/" target="_blank">
+  
+    <!--   <a href="https://www.wikimedia.it/news/sostenere-il-turismo-con-wikipedia/" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #069;"></i> Wikimedia Italia
       </a>
       <a href="https://talks.osgeo.org/foss4g-it-2023/speaker/3XTN3X/" target="_blank" style="color: #4ca53b;">
         <i class="fas fa-globe"></i> OSGeo
-      </a> --> 
+      </a> -->
           
     </div> 
+
+    
   </div>
   <div class="hero-image">
     <div class="profile-placeholder">
