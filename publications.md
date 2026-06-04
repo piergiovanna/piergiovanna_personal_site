@@ -167,7 +167,7 @@ Grossi, P. (2011). *Politica, amministrazione e propaganda lungo le strade roman
 
 ## Web Publications
 
-Grossi, P. (2024, April 18). Nuove regole sulle riproduzioni dei beni culturali: Saremo più libere e liberi di usarle? *Arkivia*.
+Grossi, P. (2024, April 18). Nuove regole sulle riproduzioni dei beni culturali: Saremo più libere e liberi di usarle? *Arkivia*.•	Articolo pubblicato su Arkivia - 18 Aprile 2024
 
 Grossi, P. (Ed.). (2021, November). Catalogo della mostra per il Museo Didattico di Storia dell'Informatica, 29 ottobre–14 novembre 2021, Cattedrale ex Macello, via Cornaro 1b, Padova.
 
@@ -183,8 +183,9 @@ Feraudi-Gruénais, F., Magnani, S., & Grossi, P. (2010). Epigrafista in azione: 
 
 Buonopane, A., Grossi, P., Pirotti, F., & Guarnieri, A. (2005). Nuove tecnologie per il rilievo epigrafico: L'impiego del laser scanner nel rilievo delle iscrizioni sui miliari [Slides e video della comunicazione, Convegno Internazionale di Epigrafia "Misurare il tempo, misurare lo spazio", Bertinoro, 20–23 ottobre 2005].
 
-Menegazzi, A., Grossi, P., D'Incà, C., Cerchiaro, K., Mondin, C., & Toniolo, E. (2001). Bibliografia della Venetia: Recensione degli anni 1996–2000.
+Menegazzi, A., Grossi, P., D'Incà, C., Cerchiaro, K., Mondin, C., & Toniolo, E. (2001). [Bibliografia della Venetia: Recensione degli anni 1996–2000.Bibliografia Regione Veneto su Adriaticum Mare](http://adriaticummare.org/it/strumenti-di-ricerca/bibliografia/bibliografia-per-regione-veneto)
 
-Komarinski, M. (1992). *Manuale dell'Amministratore di Sistema Linux* (U. Armani, trad.; P. Grossi, rev.).
+
+Komarinski, M. (1992). *Manuale dell'Amministratore di Sistema Linux* (U. Armani, trad.; P. Grossi, rev.). [Manuale dell’amministratore di sistema sul sito Plluto formato HTML](http://www.pluto.it/files/ildp/traduzioni/sys-admin/sys-admin.html)
 
 </div>
