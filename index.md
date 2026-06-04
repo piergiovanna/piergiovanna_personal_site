@@ -28,6 +28,7 @@ title: Home
       <a href="https://www.dlls.univr.it/?ent=persona&id=4736" target="_blank" style="color: #003f7f;">
         <i class="fas fa-university"></i> UniVR
       </a>
+        <br>
       <a href="https://inclusivehumanities.eu/team/membri-interni/" target="_blank" style="color: #5666BF;">
         <i class="fas fa-users"></i> Inclusive Humanities
       </a>
@@ -45,9 +46,9 @@ title: Home
       </a>
       <a href="https://talks.osgeo.org/foss4g-it-2023/speaker/3XTN3X/" target="_blank" style="color: #4ca53b;">
         <i class="fas fa-globe"></i> OSGeo
-      </a>
-          --> 
-    </div>
+      </a> --> 
+          
+    </div> 
   </div>
   <div class="hero-image">
     <div class="profile-placeholder">
