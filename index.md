@@ -6,7 +6,7 @@ title: Home
 <div class="hero-section">
   <div class="hero-content">
     <h1>Piergiovanna Grossi</h1>
-    <!-- <img src="images/logo.png" alt="Logo del progetto" width="300"> --> 
+    <!-- <img src="immagini/Wikimedia_Hackathon,_Milano_2026-PG.jpeg" alt="Piergiovanna_Portrait" width="300"> --> 
     <div class="academic-links">
       <a href="https://scholar.google.com/citations?user=RIbfERIAAAAJ&hl=en" target="_blank">
         <span style="color: #4285f4;">G</span><span style="color: #ea4335;">o</span><span style="color: #fbbc05;">o</span><span style="color: #4285f4;">g</span><span style="color: #34a853;">l</span><span style="color: #ea4335;">e</span>
