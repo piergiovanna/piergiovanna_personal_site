@@ -17,4 +17,4 @@ For institutional communications related to my academic activities at the Univer
 
 You can contact me also via:
 * Telegram: @piergiovanna
-* Linkedin: [https://www.linkedin.com/in/piergiovanna-grossi-9171225/]
+* Linkedin: [Piergiovanna Grossi on LinkedIn](https://www.linkedin.com/in/piergiovanna-grossi-9171225/)
