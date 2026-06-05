@@ -20,6 +20,6 @@ My research is characterised by a consistent commitment to the paradigms of "ope
 Beyond the strictly academic sphere, I actively promote the dissemination of digital culture and free software as tools for democracy and participation. I am among the founders of CoderDojo Padova, where I coordinate activities aimed at developing computational thinking in younger generations, and I collaborate with organisations such as Wikimedia Italia to foster the adoption of open standards and ensure the broadest possible accessibility of knowledge within cultural institutions and public administration.
 
 ## Contact
-For institutional communications or scientific collaboration proposals, please contact me at: [piergiovanna.grossi@univr.it](mailto:piergiovanna.grossi@univr.it).
+or general inquiries, professional contacts, and collaboration opportunities, please contact me at: me@piergiovannagrossi.it. For institutional communications related to my academic activities at the University of Verona, please use my university email address: piergiovanna.grossi@univr.it.
 
 </div>
