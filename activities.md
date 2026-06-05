@@ -19,9 +19,9 @@ University teaching and advanced training in Digital Humanities, Web Design, and
 
 ### University of Verona
 
-- **Advanced Digital Humanities Lab** (2023 – 2026)
-- **Digital Accessibility: design and multimedia technologies for the web and social media** (2022 – 2025)
-- **Web Design** (2020 – 2025)
+- **Advanced Digital Humanities Lab** (2023 – on going)
+- **Digital Accessibility: design and multimedia technologies for the web and social media** (2022 – on going)
+- **Web Design** (2020 – on going)
 - **Wikipedia and Digital Humanities: translation and digitisation of cultural heritage workshop** (2020 – 2024)
 - **Web and Cultural Heritage / Web Design for Cultural Heritage** (2014 – 2025)
 
@@ -47,6 +47,8 @@ University teaching and advanced training in Digital Humanities, Web Design, and
 
 Coordination and participation in national and international research projects focused on archaeological data management and Open Culture.
 
+- **GLAM – Musei Civici di Reggio Emilia** (2026–2027): Creator and lead of a Wikimedia Italia-funded GLAM initiative in collaboration with the Musei Civici di Reggio Emilia, aimed at improving public access to museum collections and cultural resources through open digital platforms.
+- 
 - **Wikipedia and Archaeology** (2023 – ongoing): Creator and lead of the GLAM project funded by Wikimedia Italia, in collaboration with the Soprintendenza ABAP for the provinces of Verona, Rovigo and Vicenza.
 
 - **Archaeological GIS of Rubiera** (2019 – 2022): Implementation and update of the archaeological Territorial Information System and direction of surface surveys (Memorandum of Understanding between UniVR and Soprintendenza ABAP of Bologna/Modena/RE/FE).
@@ -65,9 +67,9 @@ Coordination and participation in national and international research projects f
 
 Organisation of scientific events and participation in scientific committees in the fields of Free/Open Source Software and Open Data.
 
-- **Archeofoss** (Free, Libre and Open Source Software and Open Formats in archaeological research): Member of the organising and scientific committee since 2008.
-
-- **FOSS4G.it** (Free and Open Source Geographic Software and Data): Member of the organising and scientific committee since 2017.
+- **FOSS4G.it** (Free and Open Source Geographic Software and Data): Member of the organising and scientific committee (2017-on going).
+- 
+- **Archeofoss** (Free, Libre and Open Source Software and Open Formats in archaeological research): Member of the organising and scientific committee (2008-2019).
 
 - **Didattica Aperta** (Open Teaching): Coordinator of the conference on open access to computing and knowledge sharing (2010 – 2018).
 
