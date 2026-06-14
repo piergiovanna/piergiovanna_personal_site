@@ -1,70 +1,115 @@
 ---
+
 layout: default
 title: Resources
----
+----------------
 
 <div class="content-wrapper" markdown="1">
 
 # Resources
 
-Jump to: [Presentations](#presentations) - [Teaching Materials](#materials) - [Datasets & Tools](#datasets) - [Photo Gallery](#photos)
+Jump to: [Presentations](#presentations) - [Teaching Materials](#materials) - [Open Publications](#publications) - [Wikimedia & GLAM](#wikimedia) - [Photo Gallery](#photos)
 
 ---
 
 <h2 id="presentations">Presentations & Slides</h2>
 
-### 2024
+### Digital Humanities
 
-- **"The Future of Multilingual NLP"** - Keynote at EACL 2024 - [Slides (PDF)](#) | [Video](#)
-- **"Responsible AI in Practice"** - ACL 2024 Workshop - [Slides (PDF)](#)
-- **"Digital Humanities meets AI"** - Stanford Symposium - [Slides (PDF)](#) | [Poster](#)
+Collection of presentations, workshops and invited talks dedicated to:
 
-### 2023
+* Digital Humanities
+* Digital Accessibility
+* Cultural Heritage Technologies
+* Open Knowledge
+* Artificial Intelligence for Humanities
+* Open Data and Open Science
 
-- **"Efficient Methods for Large Language Models"** - EMNLP 2023 Tutorial - [Slides (PDF)](#) | [Video](#)
-- **"Efficient Knowledge Extraction"** - Google Research Talk - [Slides (PDF)](#)
-- **"Bias in NLP Systems"** - Invited Talk, UC Berkeley - [Slides (PDF)](#)
+**Selected Presentations**
 
-### 2022
+* Digital Accessibility and Cultural Heritage
+* Wikipedia and Cultural Heritage Communication
+* Open Data and Cultural Heritage
+* Archaeological Information Systems and GIS
+* Public Archaeology and Digital Storytelling
 
-- **"Knowledge-Enhanced NLP"** - ACL 2022 Tutorial - [Slides (PDF)](#) | [Video](#)
-- **"Transfer Learning for Low-Resource Languages"** - NAACL 2022 - [Slides (PDF)](#)
+*Links to slides and recordings will be progressively added.*
 
 ---
 
 <h2 id="materials">Teaching Materials</h2>
 
-### Course Notes & Handouts
+### Course Notes & Educational Resources
 
-- **CS 224N** - Complete lecture notes (Winter 2025) - [Download (PDF)](#)
-- **CS 229** - Problem sets and solutions (Spring 2024) - [Download (ZIP)](#)
-- **Introduction to NLP** - Self-study guide - [Online version](#) | [PDF](#)
+Teaching materials developed for university courses, workshops and training programmes.
 
-### Video Lectures
+**Topics**
 
-- CS 224N Full Course Recordings (Winter 2024) - [YouTube Playlist](#)
-- CS 229 Selected Lectures (Spring 2023) - [YouTube Playlist](#)
+* Digital Humanities
+* Digital Accessibility
+* Web Design and Development
+* Cultural Heritage Communication
+* Open Knowledge Ecosystems
+* Artificial Intelligence for Humanities
+* Open Data and Open Science
 
-### Recommended Reading Lists
+### Open Educational Resources
 
-- [NLP Essential Papers](#) - Curated list of foundational NLP papers
-- [Machine Learning Classics](#) - Key papers in ML theory and applications
+* CS Unplugged (Italian translation and adaptation)
+* Coding, programmare è un gioco
+* Educational materials for Digital Humanities and Cultural Heritage
 
 ---
 
-<h2 id="datasets">Datasets & Tools</h2>
+<h2 id="publications">Open Publications</h2>
 
-- **MultiLang-QA** - Multilingual question answering dataset (500K+ examples) - [Download](#) | [Paper](#)
-- **FairBench** - Benchmark for bias evaluation in NLP - [Download](#) | [Documentation](#)
-- **KG-Complete** - Knowledge graph completion dataset - [Download](#) | [Paper](#)
+### Open Access Publications
 
-### Pre-trained Models
+Many publications are available through Open Access repositories.
 
-All models available on [Hugging Face](#):
+**Selected Collections**
 
-- **LinguaFlow-base** - Multilingual transformer model
-- **FairNLP-detector** - Bias detection model
-- **KG-QA-large** - Knowledge graph QA model
+* Archeologia e Calcolatori
+* ArcheoFOSS Proceedings
+* Open Data and Cultural Heritage Publications
+* Digital Humanities Publications
+* Archaeological Information Systems Research
+
+### Edited Volumes
+
+* ArcheoFOSS 2018 Proceedings
+* ArcheoFOSS 2014 Proceedings
+* Verona e le sue strade. Archeologia e valorizzazione
+
+---
+
+<h2 id="wikimedia">Wikimedia & GLAM</h2>
+
+### Wikimedia Projects
+
+Resources and initiatives dedicated to the dissemination of cultural heritage through Wikimedia platforms.
+
+**Current Projects**
+
+* Wikipedia e Archeologia
+* GLAM – Musei Civici di Reggio Emilia
+* GLAM – Museo Veneto del Giocattolo
+
+### Wikimedia Profiles
+
+* Wikipedia user page
+* Wikimedia Commons profile
+* Wikidata profile
+
+### Open Knowledge Initiatives
+
+Activities focused on:
+
+* Cultural heritage dissemination
+* Public archaeology
+* Open cultural data
+* Community engagement
+* Accessibility within Wikimedia projects
 
 ---
 
@@ -72,10 +117,26 @@ All models available on [Hugging Face](#):
 
 ### Wikimedia Commons
 
-Selected photographs and visual materials shared under Creative Commons licenses.
+Selected photographs, documentation images and visual resources shared under open licences.
 
-- [My Wikimedia Commons profile](#)
-- [Conference photos collection](#)
-- [Research lab gallery](#)
+**Collections include**
+
+* Archaeological sites
+
+* Museums and exhibitions
+
+* Cultural landscapes
+
+* Conferences and events
+
+* Educational and outreach activities
+
+* [My Wikimedia Commons Profile](https://commons.wikimedia.org/)
+
+* [Uploaded Images and Media](https://commons.wikimedia.org/)
+
+### Openly Reusable Resources
+
+Images and media files are available under Creative Commons licences and may be reused according to the licence conditions indicated on Wikimedia Commons.
 
 </div>
