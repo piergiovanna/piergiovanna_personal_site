@@ -2,6 +2,7 @@
 layout: default
 title: Personal
 ---
+---
 
 <div class="content-wrapper" markdown="1">
 
@@ -15,53 +16,107 @@ Jump to: [Associations](#associations) - [Volunteering](#volunteering)
 
 ### Professional Associations
 
-- **Association for Computational Linguistics (ACL)** - Member since 2010
-- **Association for the Advancement of Artificial Intelligence (AAAI)** - Senior Member
-- **IEEE Computer Society** - Member
-- **ACM - Association for Computing Machinery** - Professional Member
+* **Wikimedia Italia** - Member and contributor to Wikimedia projects and GLAM initiatives
+* **GFOSS.it (Italian Association for Free and Open Source Geospatial Software)** - Member and contributor
+* **AIUCD – Italian Association for Digital Humanities and Digital Culture** - Member
+* **CoderDojo Padova** - Co-founder and volunteer mentor (2014 - present)
+<!--* **Associazione per il Software Libero** - Board Member (2011–2012, 2017–2020), Treasurer (2011–2013) -->
 
-### Editorial & Review Boards
+### Scientific & Program Committees
 
-- **Computational Linguistics** (MIT Press) - Editorial Board Member (2022-Present)
-- **Journal of Artificial Intelligence Research (JAIR)** - Associate Editor (2021-Present)
-- **Transactions of the ACL** - Regular Reviewer
+* **AIUCD 2024-2025** - Program Committee Member and Reviewer
+* **ItWikiCon 2024–2025** - General Program Committee Member
+* **FOSS4G Europe 2024** - General Program Committee Member
+* **FOSS4G 2022–2023** - General Program Committee Member
+* **FOSS4G-IT Conference Series** - Scientific and Program Committee Member 
+* **ArcheoFOSS Conference Series** - Scientific and Organizing Committee Member (2008-2019)
+* **Scientific Committee for the Archaeological Map of Reggio Emilia** - Member (2021-2025)
 
-### Academic Committees
+### Editorial Activities
 
-- **Stanford AI Ethics Committee** - Member (2023-Present)
-- **Department Diversity & Inclusion Committee** - Co-chair (2022-Present)
-- **PhD Admissions Committee** - Member (2020-2023)
+* **Archeologia e Calcolatori** - Editor and Co-editor of conference proceedings and special issues
+* **ArcheoFOSS 2014 Proceedings** - Co-editor
+* **ArcheoFOSS 2018 Proceedings** - Editor
+* **Verona e le sue strade. Archeologia e valorizzazione** - Co-editor (2019)
+
+### Academic Communities
+
+* Active participant in national and international networks dedicated to:
+  * Digital Humanities
+  * Digital Accessibility
+  * Cultural Heritage Informatics
+  * Open Knowledge
+  * Open Science
+  * Geographic Information Systems (GIS)
+  * Open Source Software for Research and Education
 
 ---
 
 <h2 id="volunteering">Volunteering & Outreach</h2>
 
-### AI for Education
+### Wikimedia & Open Knowledge
 
-**2021 - Present**
+**2010 - Present**
 
-Volunteer mentor for the [AI4Education](#) initiative, helping high school students from underrepresented backgrounds learn about artificial intelligence and machine learning through hands-on workshops.
+Promoting open knowledge, collaborative platforms and digital cultural heritage through Wikimedia projects.
 
-- 50+ students mentored
-- 12 workshops organized
-- [Program Details](#)
+* Wikipedia editing and training workshops
+* Wikidata and Wikimedia Commons initiatives
+* GLAM collaborations with museums, archives and cultural institutions
+* Open access advocacy for cultural heritage resources
+* Coordinator of the **Wikipedia e Archeologia** project (2023-present)
 
-### Code for Good
+### Digital Humanities Education
 
-**2019 - Present**
+**2008 - Present**
 
-Contributing to open-source NLP tools designed for non-profit organizations, including text analysis tools for humanitarian aid organizations and accessibility tools for visually impaired users.
+Teaching, mentoring and public engagement activities focused on Digital Humanities and Cultural Heritage.
 
-- [GitHub Organization](#)
+* Digital Accessibility
+* Web Design and Web Publishing
+* Open Data and Open Science
+* Cultural Heritage Communication
+* Artificial Intelligence for the Humanities
+* Digital Skills for Cultural Heritage Professionals
 
-### Science Communication
+### CoderDojo Padova
 
-- Regular contributor to [Stanford AI Blog](#)
-- Guest appearances on science podcasts discussing AI ethics and NLP
-- Public lectures at local libraries and community centers on "Understanding AI"
+**2014 - Present**
 
-### Environmental Initiatives
+Co-founder and volunteer mentor.
 
-- **Green Computing Working Group** - Stanford (2022-Present): Promoting energy-efficient AI training practices and carbon-aware computing.
+Supporting children and young people through:
+
+* Computational thinking activities
+* Scratch programming workshops
+* Digital literacy initiatives
+* Inclusive STEM education
+
+### Public Archaeology
+
+**2010 - Present**
+
+Promoting archaeological and historical knowledge through digital and collaborative approaches.
+
+* Public archaeology initiatives
+* Digital storytelling projects
+* Wikipedia-based dissemination of cultural heritage
+* OpenStreetMap mapping activities
+* Creation of educational and openly reusable resources
+
+### Open Source & Digital Inclusion
+
+**2004 - Present**
+
+Advocating for the adoption of open technologies and inclusive digital practices.
+
+* Free and Open Source Software (FOSS)
+* Open Data
+* Open Educational Resources
+* Open Access to Cultural Heritage
+* Digital inclusion initiatives
+* Reduction of the digital divide through training and community engagement
 
 </div>
+
+
