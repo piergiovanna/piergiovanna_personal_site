@@ -4,8 +4,6 @@ title: Chi Sono
 lang: it
 ---
 
----
-
 <div class="content-wrapper" markdown="1">
 
 # Chi sono
