@@ -8,7 +8,11 @@ lang: it
 
 # Pubblicazioni
 
-## In corso di stampa
+Vai a: [In corso di stampa](#forthcoming) - [Articoli in rivista](#articoli-rivista) - [Contributi in atti di convegno](#atti-convegno) - [Contributi in volumi monografici e miscellanee](#libri-capitoli) - [Curatela](#volumi-curati) - [Tesi di dottorato](#tesi-dottorato) - [Pubblicazioni web](#pubblicazioni-web)
+
+---
+
+<h2 id="forthcoming">In corso di stampa</h2>
 
 Ciurcina, M., & Grossi, P. (in corso di stampa, 2025). Le modifiche alle normative sulle riproduzioni dei beni culturali italiani tra il 2023 e il 2024. In *Atti del XVIII Workshop Free, Libre e Open Source Software e Open Format nei processi di ricerca archeologica (ArcheoFOSS XVIII, 2024)*. Archeologia e Calcolatori, 36.
 
@@ -18,7 +22,7 @@ Grossi, P. (in corso di stampa). Schede dei miliari delle regiones VIII, IX e XI
 
 ---
 
-## Contributi in rivista
+<h2 id="articoli-rivista">Articoli in rivista</h2>
 
 Grossi, P., & Plata, S. (2024). Amplifying archaeological outreach: The impact of Wikipedia and collaborative initiatives on cultural tourism. *Archeologia e Calcolatori*, 35, 19–28. [https://doi.org/10.19282/ac.35.2.2024.03](https://doi.org/10.19282/ac.35.2.2024.03)
 
@@ -66,7 +70,7 @@ Grossi, P. (2000). Didascalie apparato fotografico allegato a P. L. Fantelli, Gl
 
 ---
 
-## Contributi in atti di convegni
+<h2 id="atti-convegno">Contributi in atti di convegno</h2>
 
 Ciurcina, M., & Grossi, P. (2021). FOSS, open data e archeologia: Qualche riflessione su passato, presente e prospettive future. In J. Bogdani, R. Montalbano, & P. Rosati (Eds.), *ARCHEO.FOSS XIV 2020. Open software, hardware, processes, data and formats in archaeological research: Proceedings of the 14th International Conference* (pp. 168–177). Archaeopress.
 
@@ -104,7 +108,7 @@ Grossi, P., Asta, A., Pedron, S., & Deola, S. (2009). Una esperienza di didattic
 
 ---
 
-## Contributi in volumi monografici e miscellanee
+<h2 id="libri-capitoli">Contributi in volumi monografici e miscellanee</h2>
 
 Basso, P., Bertolazzi, R., & Grossi, P. (in corso di stampa, 2025). Les bornes milliaires de l'Italie du Nord: Une analyse archéologique, épigraphique et topographique. In S. España-Chamorro (Ed.), *Bornes milliaires de l'Europe romaine* (Scripta Antiqua 196). Bordeaux.
 
@@ -148,7 +152,7 @@ Ferraresso, A. (Ed.). (2015). *Coding, programmare è un gioco: Quaderno e guida
 
 ---
 
-## Curatela
+<h2 id="volumi-curati">Curatela</h2>
 
 Grossi, P. (Ed., con la collaborazione di S. Costa, A. Jaia, S. G. Malatesta, & F. Stasolla). (2019). Atti del XII Workshop Free, Libre e Open Source Software e Open Format nei processi di ricerca archeologica (ArcheoFOSS 2018). *Archeologia e Calcolatori*, 30, 441–522. [http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01](http://www.archcalc.cnr.it/journal/idyear.php?IDyear=2019-01-01)
 
@@ -160,13 +164,13 @@ Bezzi, L., Francisci, D., Grossi, P., & Lotto, D. (Eds.). (2012). *Atti del III 
 
 ---
 
-## Tesi di dottorato
+<h2 id="tesi-dottorato">Tesi di dottorato</h2>
 
 Grossi, P. (2011). *Politica, amministrazione e propaganda lungo le strade romane dell'Italia centro settentrionale. Miliari e altre iscrizioni viarie* [Tesi di dottorato, Università degli Studi di Verona].
 
 ---
 
-## Su web
+<h2 id="pubblicazioni-web">Pubblicazioni web</h2>
 
 Grossi, P. (2024, April 18). Nuove regole sulle riproduzioni dei beni culturali: Saremo più libere e liberi di usarle? *Arkivia*.
 
