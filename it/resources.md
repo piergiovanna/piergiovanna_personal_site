@@ -2,6 +2,7 @@
 
 layout: default
 title: Risorse
+lang: it
 ---
 
 <div class="content-wrapper" markdown="1">
