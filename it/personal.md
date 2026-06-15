@@ -1,4 +1,5 @@
 ---
+
 layout: default
 title: Personale
 lang: it
@@ -8,61 +9,104 @@ lang: it
 
 # Personale
 
-Vai a: [Associazioni](#associazioni) - [Volontariato](#volontariato)
+Vai a: [Associazioni](#associazioni) - [Volontariato e divulgazione](#volontariato)
 
 ---
 
-<h2 id="associazioni">Associazioni e Appartenenze</h2>
+<h2 id="associazioni">Associazioni e appartenenze</h2>
 
-### Associazioni Professionali
+### Associazioni
 
-- **Association for Computational Linguistics (ACL)** - Membro dal 2010
-- **Association for the Advancement of Artificial Intelligence (AAAI)** - Senior Member
-- **IEEE Computer Society** - Membro
-- **ACM - Association for Computing Machinery** - Professional Member
+* **Wikimedia Italia** – Socia e contributrice ai progetti Wikimedia e alle iniziative GLAM
+* **GFOSS.it (Associazione Italiana per l'Informazione Geografica Libera)** – Socia e collaboratrice
+* **AIUCD – Associazione per l'Informatica Umanistica e la Cultura Digitale** – Socia
 
-### Comitati Editoriali e di Revisione
+<!--* **Associazione per il Software Libero** – Membro del Consiglio Direttivo (2011–2012, 2017–2020), Tesoriera (2011–2013) -->
 
-- **Computational Linguistics** (MIT Press) - Membro del Comitato Editoriale (2022-Presente)
-- **Journal of Artificial Intelligence Research (JAIR)** - Associate Editor (2021-Presente)
-- **Transactions of the ACL** - Revisore Regolare
+### Gruppi e comunità
 
-### Comitati Accademici
+* **CoderDojo Padova** – Co-fondatrice e mentor volontaria (2014 – in corso)
+* **OpenStreetMap** – Membro della comunità
+* **Wikimedia Tech Community** – Membro della comunità
+* **Merge-it** – Membro della comunità
 
-- **Stanford AI Ethics Committee** - Membro (2023-Presente)
-- **Comitato Diversità e Inclusione di Dipartimento** - Co-responsabile (2022-Presente)
-- **Commissione Ammissioni Dottorato** - Membro (2020-2023)
+### Comitati scientifici e di programma
+
+* **FOSS4G-IT Conference Series** – Membro del Comitato Scientifico e del Program Committee (2020 – in corso)
+* **AIUCD 2025–2026** – Membro del Program Committee e revisore scientifico
+* **ItWikiCon 2024–2025** – Membro del General Program Committee
+* **FOSS4G Europe 2024** – Membro del General Program Committee
+* **FOSS4G International 2022–2023** – Membro del General Program Committee
+* **ArcheoFOSS Conference Series** – Membro del Comitato Scientifico e Organizzatore (2008–2019)
+* **Comitato Scientifico della Carta Archeologica di Reggio Emilia** – Membro (2021–2025)
+
+### Attività editoriali
+
+* **Archeologia e Calcolatori** – Curatrice e co-curatrice di atti di convegno e numeri speciali
+* **Atti di ArcheoFOSS 2014** – Co-curatrice
+* **Atti di ArcheoFOSS 2018** – Curatrice
+* **Verona e le sue strade. Archeologia e valorizzazione** – Co-curatrice (2019)
 
 ---
 
-<h2 id="volontariato">Volontariato e Attività di Divulgazione</h2>
+<h2 id="volontariato">Volontariato e divulgazione</h2>
 
-### IA per l'Istruzione
+### Organizzazione di eventi e conferenze
 
-**2021 - Presente**
+* **FOSS4G-IT / OSMit Conference Series** – Membro del team organizzativo e del Comitato Scientifico e di Programma (2020–in corso).
+* **ItWikiCon 2024–2025** – Membro del team organizzativo e del General Program Committee.
+* **ArcheoFOSS Conference Series** – Membro del comitato organizzatore (2008–2019).
+* **Didattica Aperta** – Coordinatrice e organizzatrice di eventi dedicati alla conoscenza aperta e all'educazione digitale (2010–2018).
+* Organizzazione di edit-a-thon, laboratori Wikimedia, attività OpenStreetMap ed eventi pubblici dedicati al patrimonio culturale e alla conoscenza aperta.
 
-Mentore volontario per l'iniziativa [AI4Education](#), aiutando studenti delle scuole superiori provenienti da contesti sottorappresentati a conoscere l'intelligenza artificiale e il machine learning attraverso laboratori pratici.
+### Wikimedia e conoscenza aperta
 
-- 50+ studenti seguiti
-- 12 laboratori organizzati
-- [Dettagli del Programma](#)
+**2010 – in corso**
 
-### Code for Good
+Promozione della conoscenza aperta, delle piattaforme collaborative e del patrimonio culturale digitale attraverso i progetti Wikimedia.
 
-**2019 - Presente**
+* Attività di editing e formazione su Wikipedia
+* Iniziative dedicate a Wikidata e Wikimedia Commons
+* Collaborazioni GLAM con musei, archivi e istituzioni culturali
+* Promozione dell'accesso aperto alle risorse del patrimonio culturale
+* Coordinatrice del progetto **Wikipedia e Archeologia** (dal 2023)
 
-Contributo a strumenti NLP open-source progettati per organizzazioni non-profit, inclusi strumenti di analisi testuale per organizzazioni umanitarie e strumenti di accessibilità per utenti ipovedenti.
+### CoderDojo Padova
 
-- [Organizzazione GitHub](#)
+**2014 – in corso**
 
-### Comunicazione Scientifica
+Co-fondatrice e mentor volontaria.
 
-- Collaboratore regolare del [Blog AI di Stanford](#)
-- Partecipazioni come ospite in podcast scientifici su etica dell'IA e NLP
-- Conferenze pubbliche presso biblioteche e centri comunitari su "Capire l'IA"
+Supporto a bambine, bambini e giovani attraverso:
 
-### Iniziative Ambientali
+* Attività di pensiero computazionale
+* Laboratori di programmazione con Scratch
+* Iniziative di alfabetizzazione digitale
+* Educazione STEM inclusiva
 
-- **Green Computing Working Group** - Stanford (2022-Presente): Promozione di pratiche di addestramento IA efficienti dal punto di vista energetico e computing consapevole dell'impatto ambientale.
+### Public Archaeology
+
+**2010 – in corso**
+
+Promozione della conoscenza archeologica e storica attraverso approcci digitali e collaborativi.
+
+* Iniziative di Public Archaeology
+* Progetti di digital storytelling
+* Divulgazione del patrimonio culturale attraverso Wikipedia
+* Attività di mappatura con OpenStreetMap
+* Creazione di risorse didattiche aperte e riutilizzabili
+
+### Open Source e inclusione digitale
+
+**2004 – in corso**
+
+Promozione dell'adozione di tecnologie aperte e pratiche digitali inclusive.
+
+* Software Libero e Open Source (FOSS)
+* Open Data
+* Risorse educative aperte (OER)
+* Accesso aperto al patrimonio culturale
+* Iniziative per l'inclusione digitale
+* Riduzione del divario digitale attraverso attività formative e coinvolgimento delle comunità
 
 </div>
