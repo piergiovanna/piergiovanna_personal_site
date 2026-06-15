@@ -6,12 +6,12 @@ lang: en
 
 <div class="hero-section">
      <h1>Piergiovanna Grossi</h1>
- <div class="hero-image">
+ <div class="hero-image"> 
   <!--
               <img src="https://piergiovanna.github.io/piergiovanna_personal_site/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right> 
   -->
-    <img src="/immagini/fotopg100x149-1.png" alt="Piergiovanna Grossi Portrait">
-         </div>
+  <img src="/immagini/fotopg100x149-1.png" alt="Piergiovanna Grossi" width="300">
+</div>
     <div class="hero-content">
         <div class="academic-links">
       <a href="https://scholar.google.com/citations?user=RIbfERIAAAAJ&hl=en" target="_blank">
