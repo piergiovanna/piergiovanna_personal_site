@@ -43,9 +43,11 @@ lang: en
 
     
   </div>
+<!--  
   <div class="hero-image">
     <div class="profile-placeholder">
       <i class="fas fa-user"></i>
     </div>
   </div>
+ -->
 </div>
