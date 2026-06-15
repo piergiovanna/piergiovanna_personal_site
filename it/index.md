@@ -7,7 +7,9 @@ lang: it
 <div class="hero-section">
   <div class="hero-content">
     <h1>Piergiovanna Grossi</h1>
-    <img src="https://github.com/piergiovanna/piergiovanna_personal_site/blob/main/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right> 
+      <div class="hero-image">
+      <img src="https://github.com/piergiovanna/piergiovanna_personal_site/blob/main/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right> 
+        </div>
     <div class="academic-links">
       <a href="https://scholar.google.com/citations?user=RIbfERIAAAAJ&hl=en" target="_blank">
         <span style="color: #4285f4;">G</span><span style="color: #ea4335;">o</span><span style="color: #fbbc05;">o</span><span style="color: #4285f4;">g</span><span style="color: #34a853;">l</span><span style="color: #ea4335;">e</span>
@@ -39,13 +41,7 @@ lang: it
       <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #333;"></i> Wikimedia
       </a>
-
-
-    
+  
   </div>
-  <div class="hero-image">
-    <div class="profile-placeholder">
-      <i class="fas fa-user"></i>
-    </div>
   </div>
 </div>
