@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-lang:ita
+lang:it
 ---
 
 <div class="content-wrapper" markdown="1">
