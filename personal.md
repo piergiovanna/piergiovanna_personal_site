@@ -1,122 +1,108 @@
 ---
 layout: default
-title: Personal
----
+title: Activities
+lang: en
 ---
 
 <div class="content-wrapper" markdown="1">
 
-# Personal
+# Activities
 
-Jump to: [Associations](#associations) - [Volunteering](#volunteering)
+This section presents my main academic and professional activities, research and cultural heritage enhancement projects, scientific appointments, and coordination activities in the fields of Digital Humanities, digital accessibility, digital archaeology, and open knowledge.
 
----
-
-<h2 id="associations">Associations & Memberships</h2>
-
-### Professional Associations
-
-* **Wikimedia Italia** - Member and contributor to Wikimedia projects and GLAM initiatives
-* **GFOSS.it (Italian Association for Free and Open Source Geospatial Software)** - Member and contributor
-* **AIUCD – Italian Association for Digital Humanities and Digital Culture** - Member
-* **CoderDojo Padova** - Co-founder and volunteer mentor (2014 - present)
-<!--* **Associazione per il Software Libero** - Board Member (2011–2012, 2017–2020), Treasurer (2011–2013) -->
-
-### Scientific & Program Committees
-
-* **AIUCD 2024-2025** - Program Committee Member and Reviewer
-* **ItWikiCon 2024–2025** - General Program Committee Member
-* **FOSS4G Europe 2024** - General Program Committee Member
-* **FOSS4G 2022–2023** - General Program Committee Member
-* **FOSS4G-IT Conference Series** - Scientific and Program Committee Member 
-* **ArcheoFOSS Conference Series** - Scientific and Organizing Committee Member (2008-2019)
-* **Scientific Committee for the Archaeological Map of Reggio Emilia** - Member (2021-2025)
-
-### Editorial Activities
-
-* **Archeologia e Calcolatori** - Editor and Co-editor of conference proceedings and special issues
-* **ArcheoFOSS 2014 Proceedings** - Co-editor
-* **ArcheoFOSS 2018 Proceedings** - Editor
-* **Verona e le sue strade. Archeologia e valorizzazione** - Co-editor (2019)
-
-### Academic Communities
-
-* Active participant in national and international networks dedicated to:
-  * Digital Humanities
-  * Digital Accessibility
-  * Cultural Heritage Informatics
-  * Open Knowledge
-  * Open Science
-  * Geographic Information Systems (GIS)
-  * Open Source Software for Research and Education
+Jump to: [Academic and Professional Appointments](#appointments) - [Projects](#projects) - [Scientific and Program Committees](#committees) - [Editorial Activities](#editorial)
 
 ---
 
-<h2 id="volunteering">Volunteering & Outreach</h2>
+<h2 id="appointments">Academic and Professional Appointments</h2>
 
-### Wikimedia & Open Knowledge
+### University of Verona
 
-**2010 - Present**
+- Lecturer for the **Advanced Digital Humanities Lab** (2023 – present).
+- Lecturer for **Digital Accessibility: Design and Multimedia Technologies for the Web and Social Media** (2022 – present).
+- Lecturer for **Web Design** (2020 – present).
+- Lecturer for **Wikipedia and Digital Humanities: Translation and Digitisation of Cultural Heritage** (2020 – 2024).
+- Lecturer for **Web Design for Cultural Heritage** (2014 – 2025).
 
-Promoting open knowledge, collaborative platforms and digital cultural heritage through Wikimedia projects.
+### University of Bologna
 
-* Wikipedia editing and training workshops
-* Wikidata and Wikimedia Commons initiatives
-* GLAM collaborations with museums, archives and cultural institutions
-* Open access advocacy for cultural heritage resources
-* Coordinator of the **Wikipedia e Archeologia** project (2023-present)
+- Lecturer at the **DIGITARCH – Digital Collection Curator for Archaeology Summer School** (2025).
 
-### Digital Humanities Education
+### University of Udine
 
-**2008 - Present**
+- Seminar on the use of Artificial Intelligence and Large Language Models in Classical Studies (2024–2025).
+- Workshop on the use of Wikipedia, Wikimedia Commons, and Wikidata for Greek and Roman epigraphy (2024–2025).
 
-Teaching, mentoring and public engagement activities focused on Digital Humanities and Cultural Heritage.
+### Yerevan State University (Armenia)
 
-* Digital Accessibility
-* Web Design and Web Publishing
-* Open Data and Open Science
-* Cultural Heritage Communication
-* Artificial Intelligence for the Humanities
-* Digital Skills for Cultural Heritage Professionals
+- Seminar series for academic staff on the use of Wikimedia projects in higher education (Erasmus+ Mobility, 2023).
 
-### CoderDojo Padova
+### Institutional and Research Collaborations
 
-**2014 - Present**
+- Collaboration with **DAIH – Digital Arena for Inclusive Humanities** (University of Verona) on digital accessibility, inclusion, and digital technologies for the humanities.
 
-Co-founder and volunteer mentor.
+- Contributor to the **Corpus Inscriptionum Latinarum (CIL XVII)** project for the edition of the *Milestones of Italy* (University of Zurich and Berlin-Brandenburg Academy of Sciences and Humanities).
 
-Supporting children and young people through:
+- Research collaborator for archaeological data interoperability and management within the **SITAVR** and **ARIADNE Research Infrastructure** projects.
 
-* Computational thinking activities
-* Scratch programming workshops
-* Digital literacy initiatives
-* Inclusive STEM education
+---
 
-### Public Archaeology
+<h2 id="projects">Projects</h2>
 
-**2010 - Present**
+Coordination and participation in projects dedicated to Digital Humanities, digital accessibility, cultural heritage enhancement, and the dissemination of open knowledge.
 
-Promoting archaeological and historical knowledge through digital and collaborative approaches.
+### Wikimedia, GLAM and Open Knowledge
 
-* Public archaeology initiatives
-* Digital storytelling projects
-* Wikipedia-based dissemination of cultural heritage
-* OpenStreetMap mapping activities
-* Creation of educational and openly reusable resources
+- **Wikipedia and Archaeology** (2023 – present) – Founder and coordinator of the GLAM project funded by Wikimedia Italia and carried out in collaboration with the Archaeology, Fine Arts and Landscape Superintendency for the provinces of Verona, Rovigo, and Vicenza. The project promotes the documentation and dissemination of archaeological heritage through Wikipedia, Wikimedia Commons, and Wikidata.
 
-### Open Source & Digital Inclusion
+- **GLAM – Musei Civici di Reggio Emilia** (2026 – 2027) – Founder and coordinator of the project developed in collaboration with the Civic Museums of Reggio Emilia and Wikimedia Italia to improve the documentation, accessibility, and reuse of museum collections through Wikimedia platforms.
 
-**2004 - Present**
+- **GLAM – Museo Veneto del Giocattolo** (2025 – present) – Coordinator of activities aimed at promoting and disseminating museum collections through Wikipedia, Wikimedia Commons, and Wikidata.
 
-Advocating for the adoption of open technologies and inclusive digital practices.
+- **Accessibility in Wikimedia Projects** (2024 – present) – Research, training, and experimentation activities focused on digital accessibility, inclusive participation, and the reduction of barriers within Wikimedia projects.
 
-* Free and Open Source Software (FOSS)
-* Open Data
-* Open Educational Resources
-* Open Access to Cultural Heritage
-* Digital inclusion initiatives
-* Reduction of the digital divide through training and community engagement
+### Digital Humanities and Cultural Heritage
+
+- **DAIH – Digital Arena for Inclusive Humanities** (University of Verona) – Collaboration on projects and initiatives related to digital accessibility, inclusion, and the application of digital technologies to the humanities.
+
+- **Rubiera Archaeological Information System** (2019 – 2022) – Development and updating of the Archaeological Territorial Information System and coordination of archaeological field survey activities.
+
+- **SITAVR – Archaeological Territorial Information System of Verona** (2011 – 2017) – Archaeological data modelling and interoperability, integration with international standards, and development of the project's IT infrastructure.
+
+- **ARIADNE Research Infrastructure** – Collaboration on the interoperability and integration of archaeological data at the European level.
+
+- **Corpus Inscriptionum Latinarum (CIL XVII)** – Participation in the international project dedicated to the edition of Roman milestones from Italy.
+
+---
+
+<h2 id="committees">Scientific and Program Committees</h2>
+
+- **AIUCD 2024–2025** – Program Committee Member and Reviewer.
+
+- **ItWikiCon 2024–2025** – General Program Committee Member.
+
+- **FOSS4G Europe 2024** – General Program Committee Member.
+
+- **FOSS4G International 2022–2023** – General Program Committee Member.
+
+- **FOSS4G-IT Conference Series** – Scientific and Program Committee Member.
+
+- **ArcheoFOSS Conference Series** – Scientific and Organising Committee Member (2008–2019).
+
+- **Scientific Committee for the Archaeological Map of Reggio Emilia** – Member (2021–2025).
+
+---
+
+<h2 id="editorial">Editorial Activities</h2>
+
+- **Archeologia e Calcolatori** – Editor and co-editor of conference proceedings and scientific publications.
+
+- **Proceedings of the III Workshop on Open Source, Free Software and Open Formats in Archaeological Research** (2012) – Co-editor.
+
+- **ArcheoFOSS 2014 Proceedings** (*Archeologia e Calcolatori*, Supplement 8) – Co-editor.
+
+- **ArcheoFOSS 2018 Proceedings** (*Archeologia e Calcolatori*, Vol. 30) – Editor.
+
+- **Verona e le sue strade. Archeologia e valorizzazione** (Cierre Edizioni, 2019) – Co-editor.
 
 </div>
-
-
