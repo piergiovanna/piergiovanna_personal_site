@@ -42,8 +42,7 @@ lang: en
 </div>
     <div class="hero-image"> 
   <!-- <img src="https://piergiovanna.github.io/piergiovanna_personal_site/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right>  -->
-     <img src="{{ '/immagini/fotopg100x149-1.png' | relative_url }}"
-         alt="Piergiovanna Grossi portrait">
+     <img src="{{ '/immagini/fotopg100x149-1.png' | relative_url }}" alt="Piergiovanna Grossi portrait" width="300">
   </div>
      
    </div>
