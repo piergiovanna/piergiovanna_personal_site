@@ -1,82 +1,147 @@
 ---
+
 layout: default
-title: Altre Risorse
-lang: it
+title: Risorse
 ---
 
 <div class="content-wrapper" markdown="1">
 
-# Altre Risorse
+# Risorse
 
-Vai a: [Presentazioni](#presentazioni) - [Materiale Didattico](#materiale) - [Dataset e Strumenti](#dataset) - [Galleria Fotografica](#foto)
-
----
-
-<h2 id="presentazioni">Presentazioni e Slides</h2>
-
-### 2024
-
-- **"Il Futuro dell'NLP Multilingue"** - Keynote a EACL 2024 - [Slides (PDF)](#) | [Video](#)
-- **"IA Responsabile nella Pratica"** - Workshop ACL 2024 - [Slides (PDF)](#)
-- **"Digital Humanities incontra l'IA"** - Simposio Stanford - [Slides (PDF)](#) | [Poster](#)
-
-### 2023
-
-- **"Metodi Efficienti per Large Language Models"** - Tutorial EMNLP 2023 - [Slides (PDF)](#) | [Video](#)
-- **"Estrazione Efficiente della Conoscenza"** - Google Research Talk - [Slides (PDF)](#)
-- **"Bias nei Sistemi NLP"** - Relazione su invito, UC Berkeley - [Slides (PDF)](#)
-
-### 2022
-
-- **"NLP Potenziato dalla Conoscenza"** - Tutorial ACL 2022 - [Slides (PDF)](#) | [Video](#)
-- **"Transfer Learning per Lingue con Poche Risorse"** - NAACL 2022 - [Slides (PDF)](#)
+Vai a: [Presentazioni](#presentazioni) - [Materiali didattici](#materiali) - [Pubblicazioni Open Access](#pubblicazioni) - [Wikimedia e GLAM](#wikimedia) - [Galleria fotografica](#foto)
 
 ---
 
-<h2 id="materiale">Materiale Didattico</h2>
+<h2 id="presentazioni">Presentazioni e slide</h2>
 
-### Appunti e Dispense
+### Digital Humanities, accessibilità e patrimonio culturale
 
-- **CS 224N** - Appunti completi delle lezioni (Winter 2025) - [Scarica (PDF)](#)
-- **CS 229** - Esercizi e soluzioni (Spring 2024) - [Scarica (ZIP)](#)
-- **Introduzione all'NLP** - Guida per lo studio autonomo - [Versione online](#) | [PDF](#)
+Selezione di presentazioni, lezioni e materiali utilizzati in seminari, workshop e attività formative dedicati a:
 
-### Video Lezioni
+* Digital Humanities
+* Accessibilità digitale
+* Tecnologie per il patrimonio culturale
+* Public Archaeology
+* Open Knowledge
+* Open Data e Open Science
+* Progetti Wikimedia per la didattica e il patrimonio culturale
 
-- CS 224N Registrazioni complete (Winter 2024) - [Playlist YouTube](#)
-- CS 229 Lezioni selezionate (Spring 2023) - [Playlist YouTube](#)
+**Temi principali**
 
-### Liste di Lettura Consigliate
+* Accessibilità digitale e patrimonio culturale
+* Wikipedia e comunicazione del patrimonio culturale
+* Open Data e beni culturali
+* Sistemi informativi archeologici e GIS
+* Public Archaeology e digital storytelling
+* Intelligenza artificiale per le discipline umanistiche
 
-- [Articoli Fondamentali di NLP](#) - Lista curata di articoli fondamentali
-- [Classici del Machine Learning](#) - Articoli chiave in teoria e applicazioni del ML
-
----
-
-<h2 id="dataset">Dataset e Strumenti</h2>
-
-- **MultiLang-QA** - Dataset multilingue di question answering (500K+ esempi) - [Scarica](#) | [Articolo](#)
-- **FairBench** - Benchmark per la valutazione dei bias nell'NLP - [Scarica](#) | [Documentazione](#)
-- **KG-Complete** - Dataset di completamento grafi della conoscenza - [Scarica](#) | [Articolo](#)
-
-### Modelli Pre-addestrati
-
-Tutti i modelli disponibili su [Hugging Face](#):
-
-- **LinguaFlow-base** - Modello transformer multilingue
-- **FairNLP-detector** - Modello di rilevamento bias
-- **KG-QA-large** - Modello QA su grafi della conoscenza
+*I collegamenti alle slide e alle registrazioni saranno progressivamente aggiunti.*
 
 ---
 
-<h2 id="foto">Galleria Fotografica</h2>
+<h2 id="materiali">Materiali didattici</h2>
+
+### Dispense e risorse educative
+
+Materiali sviluppati per corsi universitari, workshop e attività di formazione.
+
+**Principali argomenti**
+
+* Digital Humanities
+* Accessibilità digitale
+* Web Design e Web Publishing
+* Comunicazione del patrimonio culturale
+* Wikimedia, Wikipedia, Wikidata e Wikimedia Commons
+* Open Data e Open Science
+* Intelligenza artificiale per le discipline umanistiche
+
+### Risorse educative aperte
+
+* **CS Unplugged** – Traduzione e adattamento in lingua italiana
+* **Coding, programmare è un gioco** – Materiali didattici per il pensiero computazionale
+* Risorse formative dedicate alle Digital Humanities e al patrimonio culturale
+* Materiali per workshop su Wikipedia, Wikidata e Wikimedia Commons
+
+---
+
+<h2 id="pubblicazioni">Pubblicazioni Open Access</h2>
+
+### Pubblicazioni e atti di convegno ad accesso aperto
+
+Selezione di pubblicazioni, articoli e volumi disponibili online.
+
+* **Archeologia e Calcolatori** – Articoli e atti di convegno
+* **Atti di ArcheoFOSS** – Software libero, open data e archeologia
+* Pubblicazioni dedicate al patrimonio culturale digitale
+* Ricerche sui sistemi informativi archeologici
+* Pubblicazioni dedicate agli Open Data e ai beni culturali
+
+### Volumi e atti curati
+
+* **Atti di ArcheoFOSS 2018**
+* **Atti di ArcheoFOSS 2014**
+* **Verona e le sue strade. Archeologia e valorizzazione**
+
+---
+
+<h2 id="wikimedia">Wikimedia e GLAM</h2>
+
+### Progetti Wikimedia
+
+Risorse e iniziative dedicate alla diffusione e valorizzazione del patrimonio culturale attraverso le piattaforme Wikimedia.
+
+**Progetti in corso**
+
+* [Wikipedia e Archeologia](https://it.wikipedia.org/wiki/Progetto:GLAM/Wikipedia_e_archeologia)
+* [GLAM – Musei Civici di Reggio Emilia](https://it.wikipedia.org/wiki/Progetto:GLAM/Musei_Civici_di_Reggio_Emilia)
+* [GLAM – Museo Veneto del Giocattolo](https://it.wikipedia.org/wiki/Progetto:GLAM/Museo_veneto_del_giocattolo)
+
+### Risorse Wikimedia
+
+* Pagina utente su Wikipedia
+* Profilo Wikimedia Commons
+* Caricamenti su Wikimedia Commons
+* Contributi a Wikidata
+
+### Iniziative per la conoscenza aperta
+
+Attività dedicate a:
+
+* Valorizzazione del patrimonio culturale
+* Public Archaeology
+* Open Cultural Data
+* Coinvolgimento delle comunità
+* Accessibilità nei progetti Wikimedia
+* Riutilizzo delle immagini e della documentazione del patrimonio culturale
+
+---
+
+<h2 id="foto">Galleria fotografica</h2>
 
 ### Wikimedia Commons
 
-Fotografie e materiali visivi selezionati condivisi con licenze Creative Commons.
+Selezione di fotografie, immagini documentarie e risorse visive condivise con licenze aperte.
 
-- [Il mio profilo Wikimedia Commons](#)
-- [Collezione foto conferenze](#)
-- [Galleria del laboratorio di ricerca](#)
+**Le raccolte possono includere**
+
+* Siti archeologici
+
+* Musei ed esposizioni
+
+* Paesaggi culturali
+
+* Convegni e workshop
+
+* Attività educative e di divulgazione
+
+* Documentazione del patrimonio culturale
+
+* [Il mio profilo Wikimedia Commons](https://commons.wikimedia.org/)
+
+* [Immagini e contenuti multimediali caricati](https://commons.wikimedia.org/)
+
+### Risorse riutilizzabili
+
+Le immagini e i file multimediali sono distribuiti con licenze aperte e possono essere riutilizzati secondo le condizioni indicate nelle relative pagine di Wikimedia Commons.
 
 </div>
