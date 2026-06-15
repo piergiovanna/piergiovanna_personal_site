@@ -7,7 +7,10 @@ lang: en
 <div class="hero-section">
   <div class="hero-content">
     <h1>Piergiovanna Grossi</h1>
-    <img src="https://github.com/piergiovanna/piergiovanna_personal_site/blob/main/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right> 
+    <img src="{{ '/immagini/fotopg100x149-1.png' | relative_url }}" alt="Piergiovanna_Portrait" width="300" align=right> 
+
+<!-- https://github.com/piergiovanna/piergiovanna_personal_site/blob/main/immagini/fotopg100x149-1.png -->
+    
     <div class="academic-links">
       <a href="https://scholar.google.com/citations?user=RIbfERIAAAAJ&hl=en" target="_blank">
         <span style="color: #4285f4;">G</span><span style="color: #ea4335;">o</span><span style="color: #fbbc05;">o</span><span style="color: #4285f4;">g</span><span style="color: #34a853;">l</span><span style="color: #ea4335;">e</span>
