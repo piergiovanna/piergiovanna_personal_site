@@ -1,4 +1,5 @@
 ---
+
 layout: default
 title: Contatti
 lang: it
@@ -8,64 +9,74 @@ lang: it
 
 # Contatti
 
-## Email
-
-Il modo migliore per contattarmi è via email:
-
-**[piergio@stanford.edu](mailto:piergio@stanford.edu)**
-
-*Si prega di notare che a causa dell'elevato volume di email che ricevo, potrei non essere in grado di rispondere a tutte le richieste. Per gli studenti interessati, si prega di consultare le informazioni di seguito.*
+Vai a: [Email](#email) - [Altri contatti](#altri-contatti) - [Profili Pubblici e Social Media](#profili-social)
 
 ---
 
-## Ufficio
+<h2 id="email">Email</h2>
 
-**Gates Building, Stanza 358**  
-Stanford University  
-353 Jane Stanford Way  
-Stanford, CA 94305  
-Stati Uniti
+Il modo migliore per contattarmi è tramite email.
 
----
+Per richieste di carattere generale, collaborazioni professionali e opportunità di ricerca:
 
-## Orario di Ricevimento
+📧 **[me@piergiovannagrossi.it](mailto:me@piergiovannagrossi.it)**
 
-**Fall Quarter 2024:**  
-Martedì e Giovedì, 14:00 - 16:00
+Per comunicazioni istituzionali relative alle mie attività accademiche presso l'Università di Verona:
 
-*Si prega di inviare un'email in anticipo per fissare un appuntamento.*
+📧 **[piergiovanna.grossi@univr.it](mailto:piergiovanna.grossi@univr.it)**
 
 ---
 
-## Per Studenti Interessati
+<h2 id="altri-contatti">Altri contatti</h2>
 
-Se sei interessato a lavorare con me come dottorando:
-
-1. Candidati al [programma di dottorato in CS di Stanford](https://cs.stanford.edu/admissions/phd)
-2. Menziona il mio nome nella tua candidatura
-3. Esaminerò tutte le candidature che menzionano il mio nome
-
-**Per favore, non inviarmi email chiedendo informazioni sulle possibilità di ammissione.** Ricevo centinaia di email di questo tipo e non posso rispondere individualmente.
+* <i class="fab fa-telegram"></i> <a href="https://t.me/piergiovanna">Telegram (@piergiovanna)</a>
+* <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/piergiovanna-grossi-9171225/">LinkedIn</a>
 
 ---
 
-## Per Richieste di Collaborazione
+<h2 id="profili-social">Profili Pubblici e Social Media</h2>
 
-Se sei un ricercatore interessato a collaborare, inviami un'email con:
-
-- La tua posizione attuale e affiliazione
-- Una breve descrizione della tua ricerca
-- La collaborazione specifica che hai in mente
+<h3>Profili Accademici</h3>
+<ul>
+<li><i class="fas fa-university"></i> <a href="https://www.dlls.univr.it/?ent=persona&id=4736">Università di Verona</a></li>
+<li><i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4016-8268">ORCID</a></li>
+<li><i class="ai ai-dblp"></i> <a href="https://dblp.org/pid/215/7379">DBLP</a></li>
+<li><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=oHw0Zy8AAAAJ">Google Scholar</a></li>
+<li><i class="ai ai-academia"></i> <a href="https://univr.academia.edu/PiergiovannaGrossi">Academia.edu</a></li>
+</ul>
 
 ---
 
-## Social Media e Profili Accademici
+<h3>Profili Professionali</h3>
 
-- [Google Scholar](#)
-- [DBLP](#)
-- [ORCID](#)
-- [GitHub](#)
-- [LinkedIn](#)
-- [Twitter/X](#)
+<ul>
+<li><i class="fab fa-github"></i> <a href="https://github.com/piergiovanna">GitHub (piergiovanna)</a></li>
+<li><i class="fab fa-github"></i> <a href="https://github.com/piergiovannagrossi">GitHub (piergiovannagrossi)</a></li>
+<li><i class="fab fa-gitlab"></i> <a href="https://gitlab.com/piergiovanna.grossi">GitLab</a></li>
+<li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/piergiovanna-grossi-9171225/">LinkedIn</a></li>
+</ul>
+
+---
+
+<h3>Wikimedia e Open Knowledge</h3>
+
+<ul>
+<li><i class="fab fa-wikipedia-w"></i> <a href="https://it.wikipedia.org/wiki/Utente:Piergiovanna">Wikipedia</a></li>
+<li>📸 <a href="https://commons.wikimedia.org/wiki/User:Piergiovanna">Wikimedia Commons</a></li>
+<li>🧩 <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna">Meta-Wiki</a></li>
+<li>⚙️ <a href="https://phabricator.wikimedia.org/p/Piergiovanna/">Wikimedia Phabricator</a></li>
+<li><i class="fas fa-map-marked-alt"></i> <a href="https://umap.openstreetmap.fr/en/user/piergiovanna/">OpenStreetMap / uMap</a></li>
+</ul>
+
+---
+
+<h3>Social media</h3>
+
+<ul>
+<li><i class="fab fa-mastodon"></i> <a href="https://mastodon.uno/@piergio">Mastodon</a></li>
+<li><i class="fab fa-x-twitter"></i> <a href="https://x.com/PiergiovannaG">X / Twitter</a></li>
+<li><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/piergiovannag/">Instagram (@piergiovannag)</a></li>
+<li><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/piergiovannagrossi/">Instagram (@piergiovannagrossi)</a></li>
+</ul>
 
 </div>
