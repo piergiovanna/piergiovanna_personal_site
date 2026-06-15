@@ -5,7 +5,10 @@ lang: en
 ---
 
 <div class="hero-section">
-  <div class="hero-content">
+ <div class="hero-image">
+              <img src="https://piergiovanna.github.io/piergiovanna_personal_site/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right> 
+         </div>
+    <div class="hero-content">
     <h1>Piergiovanna Grossi</h1>
         <div class="academic-links">
       <a href="https://scholar.google.com/citations?user=RIbfERIAAAAJ&hl=en" target="_blank">
@@ -40,7 +43,4 @@ lang: en
       </a>
   </div>
 </div>
-  <div class="hero-image">
-              <img src="https://piergiovanna.github.io/piergiovanna_personal_site/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right> 
-         </div>
-  </div>
+   </div>
