@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Personal
+lang: en
 ---
 
 <div class="content-wrapper" markdown="1">
