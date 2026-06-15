@@ -16,5 +16,5 @@ For general inquiries, professional contacts, and collaboration opportunities, p
 For institutional communications related to my academic activities at the University of Verona, please use my university email address: piergiovannadotgrossi@univrdotit (substitute "dot" with .).
 
 You can contact me also via:
-* Telegram: @piergiovanna
+* Telegram: [@piergiovanna](https://t.me/piergiovanna)
 * Linkedin: [Piergiovanna Grossi on LinkedIn](https://www.linkedin.com/in/piergiovanna-grossi-9171225/)
