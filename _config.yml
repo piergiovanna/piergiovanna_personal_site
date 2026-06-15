@@ -3,12 +3,13 @@ title: "Piergiovanna Grossi"
 description: "Lecturer and Independent Researcher in Digital Humanities"
 url: "https://piergiovanna.github.io"
 baseurl: "/piergiovanna_personal_site"
-<!-- 
+
 #url: "https://piergiovanna.github.io/piergiovanna_personal_site/"
 #baseurl: ""
 #inserire e togliere (oppure invertire) il commento ai 2 link qui sopra per redirect a sitogithub o sito piergiovannagrossi.it
 # in pratica se baseurl è vuoto le pagine punteranno alla root del sito anziché al repository e se viene commetato l'url del repository verrà attivato il dominio che punta al repository dall0esterno
--->
+
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
