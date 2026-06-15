@@ -10,7 +10,7 @@ lang: en
   <!--
               <img src="https://piergiovanna.github.io/piergiovanna_personal_site/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right> 
   -->
-  <img src="/immagini/fotopg100x149-1.png" alt="Piergiovanna Grossi" width="300">
+  <img src="./immagini/fotopg100x149-1.png" alt="Piergiovanna Grossi" width="300" align="right">
 </div>
     <div class="hero-content">
         <div class="academic-links">
