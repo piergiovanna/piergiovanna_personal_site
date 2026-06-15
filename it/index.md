@@ -38,11 +38,11 @@ lang: it
       <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #333;"></i> Wikimedia
       </a>
-  
-  </div>
-  </div>
-   <div class="hero-image"> 
-  <!-- <img src="https://piergiovanna.github.io/piergiovanna_personal_site/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right>  -->
-     <img src="{{ '/immagini/fotopg100x149-1.png' | relative_url }}" alt="Piergiovanna Grossi" width="250">
   </div>
 </div>
+    <div class="hero-image"> 
+  <!-- <img src="https://piergiovanna.github.io/piergiovanna_personal_site/immagini/fotopg100x149-1.png" alt="Piergiovanna_Portrait" width="300" align=right>  -->
+     <img src="{{ '/immagini/fotopg100x149-1.png' | relative_url }}" alt="Piergiovanna Grossi portrait" width="250">
+  </div>
+     
+   </div>
