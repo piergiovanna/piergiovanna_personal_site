@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Resources
+lang: en
 ---
-
 
 <div class="content-wrapper" markdown="1"> 
 
