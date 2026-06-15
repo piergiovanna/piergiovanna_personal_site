@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+lang:ita
 ---
 
 <div class="content-wrapper" markdown="1">
