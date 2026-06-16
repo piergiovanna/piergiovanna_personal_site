@@ -25,10 +25,6 @@ lang: en
         <i class="fab fa-researchgate"></i> ResearchGate
       </a>
       <br>
-      <a href="https://univr.academia.edu/PiergiovannaGrossi" target="_blank" style="color: #333;">
-        <i class="fas fa-graduation-cap"></i> Academia.edu
-      </a>
-        <br>
       <a href="https://www.dlls.univr.it/?ent=persona&id=4736" target="_blank" style="color: #003f7f;">
         <i class="fas fa-university"></i> UniVR
       </a>
