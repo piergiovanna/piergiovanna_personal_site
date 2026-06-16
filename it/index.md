@@ -16,15 +16,15 @@ lang: it
          <a href="https://orcid.org/0000-0002-4016-8268" target="_blank">
         <i class="fab fa-users-w" style="color: #069;"></i> ORCID 0000-0002-4016-8268
       </a>
+        <br>
+         <a href="https://www.scopus.com/authid/detail.uri?authorId=57196040331" target="_blank" style="color: #00d0af;">
+        <i class="fab fa-users-w" style="color: #069;"></i> Scopus ID: 57196040331
+      </a>
       <br>
       <a href="https://www.researchgate.net/profile/Piergiovanna-Grossi-2" target="_blank" style="color: #00d0af;">
         <i class="fab fa-researchgate"></i> ResearchGate
       </a>
       <br>
-      <a href="https://univr.academia.edu/PiergiovannaGrossi" target="_blank" style="color: #333;">
-        <i class="fas fa-graduation-cap"></i> Academia.edu
-      </a>
-        <br>
       <a href="https://www.dlls.univr.it/?ent=persona&id=4736" target="_blank" style="color: #003f7f;">
         <i class="fas fa-university"></i> UniVR
       </a>
