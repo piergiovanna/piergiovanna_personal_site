@@ -40,8 +40,12 @@ For institutional communications related to my academic activities at the Univer
 
 <ul>
 <li><i class="fas fa-university"></i> <a href="https://www.dlls.univr.it/?ent=persona&id=4736">University of Verona</a></li>
+<li><i class="fas fa-university"></i> <a href="https://inclusivehumanities.eu/team/membri-interni/">Inclusive Humanities</a></li>
+<li><i class="fas fa-university"></i> <a href="https://daih.eu/people/">Digital Arena for Inclusive Humanities (DAIH)</a></li>  
 <li><i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4016-8268">ORCID</a></li>
 <li><i class="ai ai-dblp"></i> <a href="https://dblp.org/pid/215/7379">DBLP</a></li>
+<li><i class="ai ai-scopus"></i> <a href="https://www.scopus.com/authid/detail.uri?authorId=57196040331"> Scopus ID: 57196040331</a></li>
+<li><i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Piergiovanna-Grossi-2">ResearchGate</a></li>
 <li><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=oHw0Zy8AAAAJ">Google Scholar</a></li>
 <li><i class="ai ai-academia"></i> <a href="https://univr.academia.edu/PiergiovannaGrossi">Academia.edu</a></li>
 </ul>
