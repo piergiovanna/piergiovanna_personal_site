@@ -17,6 +17,10 @@ lang: en
         <i class="fab fa-users-w" style="color: #069;"></i> ORCID 0000-0002-4016-8268
       </a>
       <br>
+         <a href="https://www.scopus.com/authid/detail.uri?authorId=57196040331" target="_blank" style="color: #00d0af;">
+        <i class="fab fa-users-w" style="color: #069;"></i> Scopus ID: 57196040331
+      </a>
+      <br>      
       <a href="https://www.researchgate.net/profile/Piergiovanna-Grossi-2" target="_blank" style="color: #00d0af;">
         <i class="fab fa-researchgate"></i> ResearchGate
       </a>
@@ -33,7 +37,7 @@ lang: en
         <i class="fas fa-users"></i> Inclusive Humanities
       </a>
         <br>
-    </div>
+     </div>
     <div class="academic-links" style="margin-top: 0.75rem;">
       <a href="https://meta.wikimedia.org/wiki/User:Piergiovanna" target="_blank">
         <i class="fab fa-wikipedia-w" style="color: #333;"></i> Wikimedia
